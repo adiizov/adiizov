@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 # 💫 About Me:
-I'm **Anvar**, a passionate **Frontend Developer** . <br>I love building interactive and user-friendly web applications. <br>Currently, I'm exploring **full-stack development** and enhancing my skills in backend technologies.
+- 💚 I'm **Anvar**, a passionate **Frontend Developer**
+- 🌱 I love building interactive and user-friendly web applications
+- 🔭 Currently, I'm exploring **full-stack development** and enhancing my skills in backend technologies.
 
 
 ## 🌐 Socials:
