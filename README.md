@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 - 💚 I'm **Anvar**, a passionate **Frontend Developer**
 - 🌱 I love building interactive and user-friendly web applications
 - 🔭 Currently, I'm exploring **full-stack development** and enhancing my skills in backend technologies.
