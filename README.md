@@ -1,4 +1,4 @@
-![My GitHub Banner]()
+
 ## 💫 About Me:
 - 💚 I'm **Anvar**, a passionate **Frontend Developer**
 - 🌱 I love building interactive and user-friendly web applications
